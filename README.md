@@ -1,7 +1,7 @@
 # ProyekFinalDataScience_Sanber
  Sanbercode VueJS Class - Kelompok 4!
  
-#Visuals (Tutorial and Screenshot)
+# Visuals (Tutorial and Screenshot)
 
 Tutorial = https://drive.google.com/file/d/1tcRPTucVqqDmz9PhO_Vx7hmfQQcQqlhz/view?usp=sharing
 
@@ -11,17 +11,17 @@ netlify = https://pedantic-kepler-320b0b.netlify.app
 
 
 
-#Usage
+# Usage
 Digunakan sebagai proyek akhir kelas VueJS Sanbercode
 
-#Roadmap
+# Roadmap
 
 User otentikasi (login, register, logout)
 Content management (Create, Edit, Delete, Upload)
 Designing (apapun framework css nya)
 
 
-#Authors and acknowledgment
+# Authors and acknowledgment
 Kelompok 4
 
 Muhammad Lajuwardi Nugraha (@nugrahalazuardim)
