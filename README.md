@@ -7,7 +7,7 @@ HELP International is an international humanitarian NGO committed to fighting po
 HELP International has successfully raised about $10 million. Now, the CEO of the NGO needs to decide how to use this money strategically and effectively.
 strategically and effectively. So, the CEO has to make a decision to select the countries that need the most help. Therefore,
 friends' task is to categorize the countries using several socioeconomic and health factors that determine the
-the overall development of the country. Then you need to suggest which countries the CEO needs to focus on the most.
+the overall development of the country. Then we need to suggest which countries the CEO needs to focus on the most.
 
 ## File Descriptions
 There are only 2 filer in this repository (except the README and requirements file).
